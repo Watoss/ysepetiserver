@@ -46,20 +46,63 @@
          "user_surname":"Stark",
          "user_age":"34",
          "profile_image":""
-      },
-      {
-         "id":"17",
-         "user_name":"Steve",
-         "user_surname":"Rogers",
-         "user_age":"75",
-         "profile_image":""
-      },
-      {
-         "id":"20",
-         "user_name":"Scott",
-         "user_surname":"Lang",
-         "user_age":"34",
-         "profile_image":""
       }
-   ]
+   ],
+   "user_detail":[
+      {
+         "id":"1",
+         "user_id":"1",
+         "gender":"M",
+         "email":"b.batuhanyildiran@gmail.com",
+         "address":"Halide Edip Adıvar Mah Şişli",
+         "city":"İstanbul",
+         "phone":"0553 200 6337"
+      },
+      {
+         "id":"2",
+         "user_id":"2",
+         "gender":"M",
+         "email":"j.marble@hotmail.com",
+         "address":"Akasya Mah Odunpazarı",
+         "city":"Eskişehir",
+         "phone":"0555 123 4567"
+      },
+      {
+         "id":"3",
+         "user_id":"3",
+         "gender":"M",
+         "email":"p.parker@gmail.com",
+         "address":"Bronxdale Ave, The Bronx",
+         "city":"New York",
+         "phone":"0533 453 3434"
+      },
+      {
+         "id":"4",
+         "user_id":"7",
+         "gender":"F",
+         "email":"iamblack@hotmail.com",
+         "address":"2 Brighton Ave, Passaic",
+         "city":"New Jersey",
+         "phone":"0544 444 4444"
+      },
+      {
+         "id":"5",
+         "user_id":"12",
+         "gender":"M",
+         "email":"inc.hulk@savetheworld.com",
+         "address":"26W308 Cooley Ave, Winfield",
+         "city":"Illinois",
+         "phone":"0533 333 2234"
+      },
+      {
+         "id":"6",
+         "user_id":"15",
+         "gender":"M",
+         "email":"tony@starkcompany.com",
+         "address":"Küçükbakkalköy Mah Ataşehir",
+         "city":"İstanbul",
+         "phone":"0543 543 4343"
+      }
+      ]
+
 }
